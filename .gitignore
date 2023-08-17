@@ -1,0 +1,12 @@
+node_modules/*
+cypress/videos/*
+cypress/screenshots/*
+cypress/downloads/*
+/.vs
+/cypress/logs/
+
+# ignore personal environment settings
+cypress.env.json
+
+# test reports
+junit/*.xml

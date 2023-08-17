@@ -1,0 +1,15 @@
+{
+  "name": "MarsAir",
+  "version": "1.0.0",
+  "description": "Cypress tests for MarsAir",
+  "main": "index.js",
+  "scripts": {
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox",
+    "cy:run:edge": "cypress run --browser edge",
+    "cy:run:electron": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}

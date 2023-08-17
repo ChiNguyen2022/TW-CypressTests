@@ -1,0 +1,24 @@
+[
+    {
+        "departDate": "July",
+        "returnDate": "December (two years from now)",
+        "validCode":"JJ1-OPQ-326"
+    },
+    {
+        "departDate": "July",
+        "returnDate": "December",
+        "invalidCode":"JJ2-OPQ-326"
+    },
+    {
+        "departDate": "July",
+        "returnDate": "July (next year)"
+    },
+    {
+        "departDate": "July",
+        "returnDate": "December (next year)"
+    },  
+    {
+        "departDate": "July",
+        "returnDate": "July (two years from now)"
+    }
+]
